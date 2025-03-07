@@ -1,0 +1,76 @@
+{
+    "hassan": {
+        "account_id": "hassan",
+        "pin": "123",
+        "balance": 0,
+        "history": []
+    },
+    "sameed": {
+        "account_id": "sameed",
+        "pin": "123",
+        "balance": 0,
+        "history": []
+    },
+    "bnvg76576": {
+        "account_id": "bnvg76576",
+        "pin": "hguyt76",
+        "balance": 0,
+        "history": []
+    },
+    "uhpiugy87rqegjfsbpiuadfkjadfbdfjgbjhalfdbdafjhbgfmnvbfivfjbfheg[8regbne_vjndvsdmcjfnmd": {
+        "account_id": "uhpiugy87rqegjfsbpiuadfkjadfbdfjgbjhalfdbdafjhbgfmnvbfivfjbfheg[8regbne_vjndvsdmcjfnmd",
+        "pin": "8261gbnfew",
+        "balance": 0,
+        "history": []
+    },
+    "123456789011": {
+        "account_id": "123456789011",
+        "pin": " asfdo67ewfe",
+        "balance": 0,
+        "history": []
+    },
+    "123456789111": {
+        "account_id": "123456789111",
+        "pin": "1234",
+        "balance": 0,
+        "history": []
+    },
+    "555555555554": {
+        "account_id": "555555555554",
+        "pin": "6666",
+        "balance": 0,
+        "history": []
+    },
+    "123456789000": {
+        "account_id": "123456789000",
+        "pin": "1234",
+        "balance": 0,
+        "history": []
+    },
+    "123456789006": {
+        "account_id": "123456789006",
+        "pin": "1234",
+        "balance": 0,
+        "history": []
+    },
+    "112345678900": {
+        "account_id": "112345678900",
+        "pin": "1234",
+        "balance": 0.0,
+        "history": [
+            "Deposited: $500.0",
+            "Withdrew: $500.0",
+            "Deposited: $500.0",
+            "Withdrew: $500.0"
+        ]
+    },
+    "710650513247": {
+        "account_id": "710650513247",
+        "pin": "1234",
+        "balance": 0,
+        "history": [],
+        "name": "hassan",
+        "phone_number": "12345",
+        "id_card_number": "12345678"
+    }
+}
